@@ -7,12 +7,18 @@
 
 ## Example table
 
-Table ID: httparchive:summary_pages.2020_03_01_mobile
+Table ID: `httparchive:summary_pages.2020_03_01_mobile`
+
 Table size: 3.96 GB
+
 Number of rows: 5,484,239
+
 Created: Mar 24, 2020, 2:40:10 PM
+
 Table expiration: Never
+
 Last modified: Mar 24, 2020, 2:40:10 PM
+
 Data location: US
 
 ## Rows
