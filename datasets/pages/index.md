@@ -1,4 +1,4 @@
-# lighthouse
+# pages
 
 ## Table grouping
 

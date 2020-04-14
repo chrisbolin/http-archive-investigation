@@ -1,0 +1,62 @@
+
+requestid 355732372
+pageid 113942802
+startedDateTime 1584466922
+time 635
+method GET
+url https://kiezebrink.eu/en/assets/templates/fonts/fontfabric_-_panton_light-webfont.woff2
+urlShort https://kiezebrink.eu/en/assets/templates/fonts/fontfabric_-_panton_light-webfont.woff2
+redirectUrl 
+firstReq false
+firstHtml false
+reqHttpVersion
+reqHeadersSize 599
+reqBodySize null
+reqCookieLen 111
+reqOtherHeaders Origin = https://kiezebrink.eu, Sec-Fetch-Site = same-origin, Sec-Fetch-Mode = cors, Sec-Fetch-Dest = font
+status 200
+respHttpVersion 1.1
+respHeadersSize 309
+respBodySize 27199
+respSize 27199
+respCookieLen 0
+expAge 0
+mimeType
+respOtherHeaders
+req_accept */*
+req_accept_charset 
+req_accept_encoding gzip, deflate, br
+req_accept_language en-US,en;q=0.9
+req_connection keep-alive
+req_host kiezebrink.eu
+req_if_modified_since
+req_if_none_match
+req_referer https://kiezebrink.eu/en/assets/templates/fonts/fonts.css
+req_user_agent Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4) Build/MPJ24.139-64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.146 Mobile Safari/537.36 PTST/200317.140323
+resp_accept_ranges bytes
+resp_age
+resp_cache_control
+resp_connection Keep-Alive
+resp_content_encoding gzip
+resp_content_language
+resp_content_length 27199
+resp_content_location
+resp_content_type
+resp_date Tue, 17 Mar 2020 17:42:03 GMT
+resp_etag "6a28-50e11499fde00-gzip"
+resp_expires
+resp_keep_alive timeout=2, max=91
+resp_last_modified Mon, 02 Feb 2015 01:58:16 GMT
+resp_location
+resp_pragma
+resp_server Apache/2
+resp_transfer_encoding
+resp_vary Accept-Encoding,User-Agent
+resp_via
+resp_x_powered_by
+\_cdn_provider
+\_gzip_save 0
+crawlid 610
+type font
+ext woff2
+format
