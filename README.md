@@ -17,3 +17,9 @@ HTTP Archive includes a number of different datasets. Here are [brief descriptio
 `blink_features` - A list of which JavaScript, HTML, or CSS APIs are used per page
 
 `lighthouse` - (mobile only) Full JSON Lighthouse report containing audit results in areas of accessibility, performance, mobile friendliness, SEO, and more
+
+## Costs
+
+As of April, 2020:
+
+- Queries (on-demand): $5.00 per TB. This is $0.05 per GB.
